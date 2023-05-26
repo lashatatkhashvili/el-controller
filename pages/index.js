@@ -11,6 +11,10 @@ export default function Home() {
           content="Welcome to our site dedicated to electrical wiring, electricity, construction, electrical safety, electrical engineering, electrical maintenance, and electrical work. We provide expert insights, tips, and resources for all your electrical needs. From inspection and circuit breaker maintenance to fuse replacements and light fixture installations, our team of professionals ensures top-notch service. We also offer key programming, key copying, blade cutting, and lock-related services, including making new keys, resolving lost key situations, and locksmith services for locked cars. Explore our site for comprehensive information and solutions in the world of electrical and locksmith services."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta
+          name="google-site-verification"
+          content="663Rh_Q0VY4gkreQlz-mwt0QRA7bdzGnRMUBTLMnNyA"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
