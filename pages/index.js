@@ -8,12 +8,22 @@ export default function Home() {
         <title>Electric Controller</title>
         <meta
           name="description"
-          content="Welcome to our site dedicated to electrical wiring, electricity, construction, electrical safety, electrical engineering, electrical maintenance, and electrical work. We provide expert insights, tips, and resources for all your electrical needs. From inspection and circuit breaker maintenance to fuse replacements and light fixture installations, our team of professionals ensures top-notch service. We also offer key programming, key copying, blade cutting, and lock-related services, including making new keys, resolving lost key situations, and locksmith services for locked cars. Explore our site for comprehensive information and solutions in the world of electrical and locksmith services."
+          content="Welcome to our site dedicated to electrical wiring, electricity, construction, electrical safety, კობა ძია მათეშა, electrical engineering, electrical maintenance, and electrical work. We provide expert insights, tips, and resources for all your electrical needs. From inspection and circuit breaker maintenance to fuse replacements and light fixture installations, our team of professionals ensures top-notch service. We also offer key programming, key copying, blade cutting, and lock-related services, including making new keys, resolving lost key situations, and locksmith services for locked cars. Explore our site for comprehensive information and solutions in the world of electrical and locksmith services."
         />
+        <meta property="og:title" content="Electric Controller" />
+        <meta
+          property="og:description"
+          content="We offer car key programming, key copying, blade cutting, კობა ძია მათეშა, and lock-related services"
+        />
+        <meta property="og:image" content="/background.jpg" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="google-site-verification"
           content="663Rh_Q0VY4gkreQlz-mwt0QRA7bdzGnRMUBTLMnNyA"
+        />
+        <meta
+          name="keywords"
+          content="კობა ძია მათეშა, Electrical Wiring, Electricity, Construction, Electrical Safety, Electrical Engineering, Electrical Maintenance, Electrical Work, Inspection, Circuit Breaker, fuse"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -85,7 +95,7 @@ export default function Home() {
               />
               <h3 className="project-title">
                 <span className="code">&lt;</span>
-                Security Systems
+                კობა ძია მათეშა
                 <span className="code">&#47;&gt;</span>
               </h3>
             </div>
