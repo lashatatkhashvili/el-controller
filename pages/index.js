@@ -15,15 +15,10 @@ export default function Home() {
           property="og:description"
           content="We offer car key programming, key copying, blade cutting, კობა ძია მათეშა, and lock-related services"
         />
-        <meta property="og:image" content="/background.jpg" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="google-site-verification"
           content="663Rh_Q0VY4gkreQlz-mwt0QRA7bdzGnRMUBTLMnNyA"
-        />
-        <meta
-          name="keywords"
-          content="კობა ძია მათეშა, Electrical Wiring, Electricity, Construction, Electrical Safety, Electrical Engineering, Electrical Maintenance, Electrical Work, Inspection, Circuit Breaker, fuse"
         />
         <link rel="icon" href="/favicon.ico" />
       </Head>
